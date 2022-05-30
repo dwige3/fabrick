@@ -1,6 +1,5 @@
 package it.fabrick.bip.wwsbipbackend.service;
 
-import com.sun.xml.bind.v2.TODO;
 import it.fabrick.bip.wwsbipbackend.converter.ConversionServiceHelper;
 import it.fabrick.bip.wwsbipbackend.exceptions.InvalidReferenceDateException;
 import it.fabrick.bip.wwsbipbackend.exceptions.MoneyTransferAlreadyExistsException;
